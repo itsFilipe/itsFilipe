@@ -16,10 +16,8 @@
     style-"padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=itsFilipe&theme=onedark"
     />
-</p>
 
-<p>
-   <img
+    <img
     align-"left"
     alt-"Github Stats"
     heigh="200"
@@ -27,6 +25,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsFilipe&layout=donut&theme=onedark"
     />
 </p>
+
 
 ## 🤖Linguagens e Tecnologias
 <div style="display: flex; align-items: center">
