@@ -8,7 +8,7 @@
 - 📚 Estudando na UNAERP, atualmente aprendendo C.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=205 align="center" src="https://github-readme-stats.vercel.app/api?username=itsFilipe&theme=radical" />
+  <img height=210 align="center" src="https://github-readme-stats.vercel.app/api?username=itsFilipe&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat"> 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsFilipe&layout=donut&theme=radical" />
@@ -17,7 +17,7 @@
 **Linguagens**
 
 <div style="display: inline_block"><br>
-   <img align="center" alt="Filipe-C" height="30" width="40" src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/technology/c/c.svg">
+   <img align="center" alt="Filipe-C" height="30" width="40" src="https://raw.githubusercontent.com/dheereshag/coloured-icons/master/public/logos/technology/c/c.svg">
 </div>
 
 **Redes**
