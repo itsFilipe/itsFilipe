@@ -17,7 +17,7 @@
 **Linguagens**
 
 <div style="display: inline_block"><br>
-   <img align="center" alt="Filipe-C" height="30" width="40" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000">
+   <img align="center" alt="Filipe-C" height="30" width="40" src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/technology/c/c.svg">
 </div>
 
 **Redes**
