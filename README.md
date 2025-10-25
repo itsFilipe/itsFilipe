@@ -11,12 +11,10 @@
 <div style="display: flex; gap: 10px;">
   <img
     alt="Filipe's Github Stats"
-    height="200"
     src="https://github-readme-stats.vercel.app/api?username=itsFilipe&theme=transparent"
   />
   <img
     alt="Filipe's Top Langs"
-    height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsFilipe&layout=compact&theme=transparent"
   />
 </div>
