@@ -4,20 +4,20 @@
 
 # Meu nome é Filipe, estudante de Engenharia de Software 💻✨
 
-- 🔧Trabalhando no Grupo Intelli, atualmente aprendendo GeneXus.
-- 📚 Estudando na UNAERP, atualmente aprendendo C.
+- ⚙️Trabalhando no Grupo Intelli, atualmente aprendendo GeneXus.
+- 🎓Estudando na UNAERP, atualmente aprendendo C.
 
-### 🤖 Estatísticas
+### 🤖Estatísticas
 <div style="display: flex; gap: 10px;">
   <img
     alt="Filipe's Github Stats"
     height="200"
-    src="https://github-readme-stats.vercel.app/api?username=itsFilipe&theme=onedark"
+    src="https://github-readme-stats.vercel.app/api?username=itsFilipe&theme=transparent"
   />
   <img
     alt="Filipe's Top Langs"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsFilipe&layout=donut&theme=onedark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsFilipe&layout=compact&theme=transparent"
   />
 </div>
 
@@ -30,7 +30,7 @@
   <img align="center" alt="Linux" height="60" src="https://raw.githubusercontent.com/dheereshag/coloured-icons/master/public/logos/technology/linux/linux.svg?v=1">
 </div>
 
-<h2>Redes</h2>
+<h2>📳Redes</h2>
 <div> 
   <a href="https://www.linkedin.com/in/filipecastro111" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
