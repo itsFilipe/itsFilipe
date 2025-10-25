@@ -21,7 +21,7 @@
   />
 </div>
 
-## 🤖Linguagens e Tecnologias
+<h2>🤖Linguagens e Tecnologias</h2>
 <div style="display: flex; align-items: center">
   <br>
   <img align="center" alt="C" height="60" src="https://raw.githubusercontent.com/dheereshag/coloured-icons/master/public/logos/technology/c/c.svg?v=1">
@@ -30,6 +30,7 @@
   <img align="center" alt="Linux" height="60" src="https://raw.githubusercontent.com/dheereshag/coloured-icons/master/public/logos/technology/linux/linux.svg?v=1">
 </div>
 
+<h2>Redes</h2>
 <div> 
-     <a href="https://www.linkedin.com/in/filipecastro111" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 	
+  <a href="https://www.linkedin.com/in/filipecastro111" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
