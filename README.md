@@ -8,24 +8,18 @@
 - 📚 Estudando na UNAERP, atualmente aprendendo C.
 
 ### 🤖 Estatísticas
-<p>
+<div style="display: flex; gap: 10px;">
   <img
-    align-"left"
-    alt-"Github Stats"
-    heigh="200"
-    style-"padding-right: 10px;"
+    alt="Filipe's Github Stats"
+    height="200"
     src="https://github-readme-stats.vercel.app/api?username=itsFilipe&theme=onedark"
-    />
-
-    <img
-    align-"left"
-    alt-"Github Stats"
-    heigh="200"
-    style-"padding-right: 10px;"
+  />
+  <img
+    alt="Filipe's Top Langs"
+    height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsFilipe&layout=donut&theme=onedark"
-    />
-</p>
-
+  />
+</div>
 
 ## 🤖Linguagens e Tecnologias
 <div style="display: flex; align-items: center">
