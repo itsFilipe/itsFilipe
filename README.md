@@ -8,8 +8,17 @@ Meu nome é Filipe, estudante de Engenharia de Software 😎💻✨
 - 🔧Trabalhando no Grupo Intelli, atualmente aprendendo GeneXus.
 - 📚 Estudando na UNAERP, atualmente aprendendo C.
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=itsFilipe&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsFilipe&layout=compact" />
+</a>
+
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsFilipe&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsFilipe&layout=compact)
+-->
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Filipe-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
