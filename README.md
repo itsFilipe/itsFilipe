@@ -26,7 +26,7 @@
     />
 </p>
 
-### 🤖Linguagens e Tecnologias
+## 🤖Linguagens e Tecnologias
 <div style="display: flex; align-items: center">
   <br>
   <img align="center" alt="C" height="60" src="https://raw.githubusercontent.com/dheereshag/coloured-icons/master/public/logos/technology/c/c.svg">
