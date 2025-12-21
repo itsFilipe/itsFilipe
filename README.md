@@ -4,7 +4,7 @@
 
 # Meu nome é Filipe, estudante de Engenharia de Software 💻✨
 
-- ⚙️Trabalhando no Grupo Intelli, atualmente aprendendo GeneXus.
+- ⚙️Trabalhando no Grupo Intelli, atuando como auxiliar de programação.
 - 🎓Estudando na UNAERP, atualmente aprendendo C.
 
 ### 🤖Estatísticas
