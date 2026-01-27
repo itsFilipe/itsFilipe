@@ -29,6 +29,7 @@
   <img align="center" alt="Python" height="60" src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/technology/python/python.svg?v=1">
   <img align="center" alt="MySQL" height="60" src="https://raw.githubusercontent.com/dheereshag/coloured-icons/master/public/logos/technology/mysql/mysql.svg?v=1">
   <img align="center" alt="Linux" height="60" src="https://raw.githubusercontent.com/dheereshag/coloured-icons/master/public/logos/technology/linux/linux.svg?v=1">
+  <img align="center" alt="Docker" height="60" src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/technology/docker/docker-vertical.webp?v=1">
 </div>
 
 <h2>Redes</h2>
