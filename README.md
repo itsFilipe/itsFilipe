@@ -1,44 +1,60 @@
-<!--
-**itsFilipe/itsFilipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/102890201?v=4"
+    align="center"
+    height="150"
+    style="border-radius:50%">
+</p>
 
-# Meu nome é Filipe, estudante de Engenharia de Software 💻✨
+---
 
-- Trabalhando no Grupo Intelli, atuando como auxiliar de programação.
-- Estudando Engenharia de Software, atualmente no 2º Ano.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&duration=2000&pause=1000&color=186BFD&width=500&lines=Ol%C3%A1%2C+sou+o+Filipe+Castro!;Engenharia+de+Software+%2F+2%C2%BA+ano;Curioso+por+sistemas+e+back-end;%C3%80+procura+de+novos+desafios" />
+</p>
 
-### Estatísticas
-<div style="display: flex; gap: 10px;">
-  <!--
-  <img
-    alt="Filipe's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=itsFilipe&theme=transparent"
-  /> -->
-  <img
-    alt="Filipe's Top Langs"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsFilipe&layout=compact&theme=transparent"
-  />
+<p align="center">
+    <img height=250 src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&duration=1000&pause=1&color=2725FF&multiline=true&width=450&height=200&lines=%5B++++0.000000%5D+Booting+Linux+Kernel+6.3.0-x64...;%5B++++0.000001%5D+Initializing+system...;%5B++++0.015384%5D+Loading+modules+%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92+100%25;%5B++++0.025687%5D+Mounting+root+filesystem...+done.;%5B++++0.031245%5D+Starting+essential+services...;%5B++++0.035006%5D+%E2%94%9C%E2%94%80+Networking+initialized;%5B++++0.036092%5D+%E2%94%9C%E2%94%80+SSH+daemon+started+on+port+22;%5B++++0.037289%5D+%E2%94%94%E2%94%80+User+environment+loaded;%5B++++0.045681%5D+Welcome+to+Filipe%27s+Dev+Environment+%3B%29;%5B++++0.046001%5D+Type+%60startx%60+to+launch%2C+or+scroll+to+continue.;user%40filipe-dev%3A~%24+" alt="Typing SVG"/>
+</p>
+
+<div id="user-content-toc" align="center">
+  <ul>
+  <summary><h1> Sobre mim: </h1></summary>
+  </ul>
 </div>
 
-<h2>Linguagens e Tecnologias</h2>
-<div style="display: flex; align-items: center">
-  <br>
-  <img align="center" alt="C" height="60" src="https://raw.githubusercontent.com/dheereshag/coloured-icons/master/public/logos/technology/c/c.svg?v=1">
-  <!-- <img align="center" alt="Java" height="60" src="https://raw.githubusercontent.com/dheereshag/coloured-icons/master/public/logos/technology/java/java.svg?v=1"> -->
-  <img align="center" alt="Cpp" height="60" src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/technology/cpp/cpp.svg?v=1">
-  <img align="center" alt="Python" height="60" src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/technology/python/python.svg?v=1">
-  <img align="center" alt="MySQL" height="60" src="https://raw.githubusercontent.com/dheereshag/coloured-icons/master/public/logos/technology/mysql/mysql.svg?v=1">
-  <img align="center" alt="Linux" height="60" src="https://raw.githubusercontent.com/dheereshag/coloured-icons/master/public/logos/technology/linux/linux.svg?v=1">
-  <img align="center" alt="Docker" height="60" src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/technology/docker/docker-vertical.webp?v=1">
-</div>
+---
 
-<h2>Redes</h2>
-<div> 
-  <a href="https://www.linkedin.com/in/filipecastro111" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+Apaixonado por tecnologia desde cedo, decidi mergulhar de cabeça no mundo do desenvolvimento de software — cada vez mais curioso sobre como as coisas funcionam por baixo dos panos.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsFilipe/itsFilipe/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsFilipe/itsFilipe/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/itsFilipe/itsFilipe/output/github-contribution-grid-snake.svg">
-</picture>
+Trabalho no **Grupo Intelli** como auxiliar de programação e estudo **Engenharia de Software**, no 2º ano, buscando evoluir projeto a projeto.
+
+<p>
+
+> Sempre estudando, sempre aprendendo algo novo.
+
+> Um dia, vou contribuir para projetos tão grandes quanto o Linux.
+
+</p>
+
+</br>
+<br>
+
+---
+
+![Linguagens](https://img.shields.io/badge/L%20I%20N%20G%20U%20A%20G%20E%20N%20S-blue?style=for-the-badge)![Ferramentas](https://img.shields.io/badge/F%20E%20R%20R%20A%20M%20E%20N%20T%20A%20S-purple?style=for-the-badge)![OS](https://img.shields.io/badge/Sistema%20Operacional-black?style=for-the-badge)
+
+[![Linguagens](https://skillicons.dev/icons?i=c,cpp,python,mysql)](https://skillicons.dev) [![Ferramentas](https://skillicons.dev/icons?i=git,github,docker,vscode)](https://skillicons.dev) [![OS](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+
+![Social](https://img.shields.io/badge/Social%20Space-grey?style=for-the-badge)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipecastro111)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lipecs.1111@gmail.com)
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsFilipe/itsFilipe/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsFilipe/itsFilipe/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/itsFilipe/itsFilipe/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
