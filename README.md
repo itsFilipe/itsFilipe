@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=E95420&height=150&section=header" />
+</p>
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/9ab90ae9-a300-4def-a494-1b8077f1e9f9" height="200" />
 </p>
 
@@ -53,5 +57,5 @@ Trabalho no **Grupo Intelli** como auxiliar de programação e estudo **Engenhar
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E95420&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=E95420&height=120&section=footer" />
 </p>
