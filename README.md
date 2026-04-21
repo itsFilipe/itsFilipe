@@ -3,13 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/102890201?v=4"
-    align="center"
-    height="150"
-    style="border-radius:50%">
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&duration=2000&pause=1000&color=186BFD&width=500&lines=Ol%C3%A1%2C+sou+o+Filipe+Castro!;Estudante+de+Engenharia+de+Software;Curioso+por+sistemas+e+baixo+n%C3%ADvel;%C3%80+procura+de+novos+desafios" />
 </p>
 
