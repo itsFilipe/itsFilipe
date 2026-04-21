@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=186BFD&height=200&section=header&text=itsFilipe&fontSize=80&fontColor=fff&animation=fadeIn" />
+</p>
+
+<p align="center">
   <img src="https://avatars.githubusercontent.com/u/102890201?v=4"
     align="center"
     height="150"
@@ -31,7 +35,7 @@ Trabalho no **Grupo Intelli** como auxiliar de programação e estudo **Engenhar
 
 > Sempre estudando, sempre aprendendo algo novo.
 
-> Um dia, vou contribuir para projetos tão grandes quanto o Linux.
+> Interessado em baixo nível, robótica, ROS2 e IOT.
 
 </p>
 
@@ -42,12 +46,9 @@ Trabalho no **Grupo Intelli** como auxiliar de programação e estudo **Engenhar
 
 ![Linguagens](https://img.shields.io/badge/L%20I%20N%20G%20U%20A%20G%20E%20N%20S-blue?style=for-the-badge)![Ferramentas](https://img.shields.io/badge/F%20E%20R%20R%20A%20M%20E%20N%20T%20A%20S-purple?style=for-the-badge)![OS](https://img.shields.io/badge/Sistema%20Operacional-black?style=for-the-badge)
 
-[![Linguagens](https://skillicons.dev/icons?i=c,cpp,python,mysql)](https://skillicons.dev) [![Ferramentas](https://skillicons.dev/icons?i=git,github,docker,vscode)](https://skillicons.dev) [![OS](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
-
-![Social](https://img.shields.io/badge/Social%20Space-grey?style=for-the-badge)
+[![Linguagens](https://skillicons.dev/icons?i=c,cpp,python,mysql)](https://skillicons.dev) [![Ferramentas](https://skillicons.dev/icons?i=git,github,docker,vscode,ros)](https://skillicons.dev) [![OS](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipecastro111)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lipecs.1111@gmail.com)
 
 ---
 
