@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=E95420&height=150&section=header" />
-  <img src="https://github.com/user-attachments/assets/2a8ded8d-3534-44e3-b055-ea0e0484b6e9" height="200" />
+  <img src="FILIPE1-ezgif.com-crop.gif" height="200" />
 </p>
 
 <p align="center">
