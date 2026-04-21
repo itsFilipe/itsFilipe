@@ -2,13 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=186BFD&height=200&section=header&text=FilipeCastro&fontSize=80&fontColor=fff&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/102890201?v=4"
-    align="center"
-    height="150"
-    style="border-radius:50%">
-</p>
-
 ---
 
 <p align="center">
