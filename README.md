@@ -1,8 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=E95420&height=150&section=header" />
-</p>
-
-<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=E95420&height=80&section=header" />
   <img src="https://github.com/user-attachments/assets/9ab90ae9-a300-4def-a494-1b8077f1e9f9" height="200" />
 </p>
 
