@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=186BFD&height=200&section=header&text=FilipeㅤCastro&fontSize=80&fontColor=fff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=186BFD&height=200&section=header&text=FilipeCastro&fontSize=80&fontColor=fff&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&duration=2000&pause=1000&color=186BFD&width=500&lines=Ol%C3%A1%2C+sou+o+Filipe+Castro!;Engenharia+de+Software+%2F+2%C2%BA+ano;Curioso+por+sistemas+e+back-end;%C3%80+procura+de+novos+desafios" />
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&duration=2000&pause=1000&color=186BFD&width=500&lines=Ol%C3%A1%2C+sou+o+Filipe+Castro!;Estudande de Engenharia+de+Software;Curioso+por+sistemas+e+back-end+de+baixo+nivel;%C3%80+procura+de+novos+desafios" />
 </p>
 
 <p align="center">
