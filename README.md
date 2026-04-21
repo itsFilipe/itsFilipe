@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=E95420&height=200&section=header&text=FilipeCastro&fontSize=80&fontColor=fff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E95420&height=200&section=header&text=FilipeCastro&fontSize=80&fontColor=fff&animation=twinkling" />
 </p>
 
 <p align="center">
@@ -53,5 +53,5 @@ Trabalho no **Grupo Intelli** como auxiliar de programação e estudo **Engenhar
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=E95420&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E95420&height=120&section=footer" />
 </p>
