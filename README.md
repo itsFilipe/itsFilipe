@@ -44,6 +44,7 @@ Trabalho no **Grupo Intelli** como auxiliar de programação e estudo **Engenhar
 ![Social](https://img.shields.io/badge/Social%20Space-grey?style=for-the-badge)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipecastro111)
+[![YouTube](https://shields.io)]([https://youtube.com](https://youtube.com/@filipxzz7?si=sOMo3WZjSBeLpy-R))
 
 ---
 
