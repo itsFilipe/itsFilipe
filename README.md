@@ -1,9 +1,9 @@
-<!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=E95420&height=150&section=header" />
+  <!--
   <img src="FILIPE1-ezgif.com-crop.gif" height="200" />
+  -->
 </p>
--->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&duration=4000&pause=2000&color=E95420&center=true&width=500&lines=Ol%C3%A1%2C+visitante!;Estudante+de+Engenharia+de+Software;Curioso+por+sistemas+e+baixo+n%C3%ADvel;%C3%80+procura+de+novos+desafios" />
